@@ -1,0 +1,20 @@
+# Java / Maven
+backend/target/
+*.class
+
+# Node
+quickcart-frontend/node_modules/
+quickcart-frontend/dist/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+desktop.ini
+.DS_Store
